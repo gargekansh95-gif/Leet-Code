@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
