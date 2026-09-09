@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 ## Tree
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
+## String
+|  |
+| ------- |
+| [0091-decode-ways](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0091-decode-ways) |
 <!---LeetCode Topics End-->
