@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -46,8 +47,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 ## String
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0091-decode-ways) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
