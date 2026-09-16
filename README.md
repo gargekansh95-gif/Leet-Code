@@ -39,15 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -56,8 +59,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
