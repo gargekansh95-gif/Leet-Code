@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 ## Tree
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0091-decode-ways) |
 ## Depth-First Search
 |  |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
