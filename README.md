@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0919-complete-binary-tree-inserter) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0919-complete-binary-tree-inserter) |
 ## String
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0919-complete-binary-tree-inserter](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0919-complete-binary-tree-inserter) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0919-complete-binary-tree-inserter](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0919-complete-binary-tree-inserter) |
 <!---LeetCode Topics End-->
