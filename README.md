@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0189-rotate-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0189-rotate-array) |
 ## Binary Search
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0919-complete-binary-tree-inserter](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0919-complete-binary-tree-inserter) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
