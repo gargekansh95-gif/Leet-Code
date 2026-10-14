@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0919-complete-binary-tree-inserter](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0919-complete-binary-tree-inserter](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## String
@@ -74,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0513-find-bottom-left-tree-value](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0513-find-bottom-left-tree-value) |
 | [0919-complete-binary-tree-inserter](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0919-complete-binary-tree-inserter) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/gargekansh95-gif/Leet-Code/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Lifting
